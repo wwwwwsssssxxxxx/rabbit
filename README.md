@@ -29,7 +29,6 @@ b、在 设置-电池和性能 里有 省电优化（电池优化） 针对每�
 
 关于下载：
 
-1、Googole Play,搜索"小白兔vpn"即可
+只提供 Googole Play 下载渠道,搜索"小白兔vpn"即可
 
-2、github点击下载：https://github.com/wwwwwsssssxxxxx/rabbit/raw/master/rabbit1.1.apk
 
