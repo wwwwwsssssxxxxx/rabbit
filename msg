@@ -1,1 +1,1 @@
-{"code":1,"message":"暂时别升级新版本，有bug待修复！！","data":{}}
+{"code":1,"message":"禁P2P协议/迅雷，周知","data":{}}
