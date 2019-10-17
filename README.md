@@ -49,12 +49,11 @@ b、在 设置-电池和性能 里有 省电优化（电池优化） 针对每�
 
 "小白兔VPN"  permanently free, one-click connection, free access to the Internet.
 
-
-1, in order to ensure the stability and speed of the rabbit, the author does not want the rabbit to be abused, especially the P2P protocol downloaded by BT& magnetic force / thunder.
+1. in order to ensure the stability and speed of the rabbit, the author does not want the rabbit to be abused, especially the P2P protocol downloaded by BT& magnetic force / thunder.
 
 2. If all lines are blocked, it means that the server is blocked extensively. Please give the rabbit more patience to restore the service (within 48 hours).
 
-3, 1 to 3 lines will always be fixed as forbidden video lines to provide guarantees for web/social services (friends who need video services please choose other lines)
+3. 1 to 3 lines will always be fixed as forbidden video lines to provide guarantees for web/social services (friends who need video services please choose other lines)
 
 4. Little White Rabbit is just a product of personal interest, not intended for commercial use.
 
