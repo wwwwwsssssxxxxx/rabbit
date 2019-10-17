@@ -74,9 +74,9 @@ Common problems:
 
 5. Frequent dropouts (important)
 
-A. Please add this software to the whitelist of background operation. (How to operate please own Google or Baidu, domestic mobile phone manufacturers have different systems)
+  a. Please add this software to the whitelist of background operation. (How to operate please own Google or Baidu, domestic mobile phone manufacturers have different systems)
 
-B. There are power saving optimization (battery optimization) options in settings-batteries and performance. For each application, choosing not to optimize can ensure resident backstage.
+  b. There are power saving optimization (battery optimization) options in settings-batteries and performance. For each application, choosing not to optimize can ensure resident backstage.
 
 6. Disconnect when not needed to save resources.
 
