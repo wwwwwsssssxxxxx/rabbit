@@ -66,11 +66,11 @@ Common problems:
 
 1. In order to relieve the line pressure, the rabbit will be disconnected for more than 2 hours each time. After disconnection, the rabbit will need to reconnect manually.
 
-2. Because of the complex network in different areas, different operators in different areas have different effects on connecting the same line. If a line is not available or the network speed is slow, please turn off VPN and wait a little later or choose another line to try again. If the line is unavailable, the server where the line is located may be down. Wait for the author to repair and restart the line.
+2. Because of the complex network in different areas, different operators in different areas have different effects on connecting the same line. If a line is not available or the network speed is slow, please turn off and wait a little later or choose another line to try again. If the line is unavailable, the server where the line is located may be down. Wait for the author to repair and restart the line.
 
 3. Restrict some lines to watch videos, which is also for the sake of smoothly providing friends who use Goole search, online shopping, social networking and other scenarios.
 
-4. About flip-flop: Little White Rabbit will call the V*P*N service that comes with the system when it runs. If your mobile phone system is customized by a third party or VPN service is streamlined/deleted, Little White Rabbit can do nothing about it. If your mobile phone system is the manufacturer's original system, and there is no Root, please leave a message to the author's Google Store. The author will try to fix other errors such as flicker.
+4. About flip-flop: Little White Rabbit will call the V*P*N service that comes with the system when it runs. If your mobile phone system is customized by a third party or V*P*N service is streamlined/deleted, Little White Rabbit can do nothing about it. If your mobile phone system is the manufacturer's original system, and there is no Root, please leave a message to the author's Google Store. The author will try to fix other errors such as flicker.
 
 5. Frequent dropouts (important)
 
