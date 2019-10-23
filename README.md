@@ -47,7 +47,7 @@ b、在 设置-电池和性能 里有 省电优化（电池优化） 针对每�
 
 -------------------------------------------------------------------------------
 
-"小白兔VPN"  permanently free, one-click connection, free access to the Internet.
+"Small Rabbit"  permanently free, one-click connection, free access to the Internet.
 
 1. in order to ensure the stability and speed of the rabbit, the author does not want the rabbit to be abused, especially the P2P protocol downloaded by BT& magnetic force / thunder.
 
