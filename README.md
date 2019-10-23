@@ -43,7 +43,7 @@ b、在 设置-电池和性能 里有 省电优化（电池优化） 针对每�
 
 关于下载：
 
-只提供 Googole Play 下载渠道,搜索"小白兔vpn"
+只提供 Googole Play 下载渠道,搜索即可
 
 -------------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ Common problems:
 
 3. Restrict some lines to watch videos, which is also for the sake of smoothly providing friends who use Goole search, online shopping, social networking and other scenarios.
 
-4. About flip-flop: Little White Rabbit will call the VPN service that comes with the system when it runs. If your mobile phone system is customized by a third party or VPN service is streamlined/deleted, Little White Rabbit can do nothing about it. If your mobile phone system is the manufacturer's original system, and there is no Root, please leave a message to the author's Google Store. The author will try to fix other errors such as flicker.
+4. About flip-flop: Little White Rabbit will call the V*P*N service that comes with the system when it runs. If your mobile phone system is customized by a third party or VPN service is streamlined/deleted, Little White Rabbit can do nothing about it. If your mobile phone system is the manufacturer's original system, and there is no Root, please leave a message to the author's Google Store. The author will try to fix other errors such as flicker.
 
 5. Frequent dropouts (important)
 
@@ -89,4 +89,4 @@ This application is only for scientific research, learning, education, and all o
 
 About downloading:
 
-Only provide Google Play download channels, search for "小白兔VPN" can be, other download channels please be careful!
+Only provide Google Play download channels, other download channels please be careful!
