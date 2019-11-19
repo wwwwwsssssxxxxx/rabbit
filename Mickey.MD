@@ -3,7 +3,7 @@
 
 1. in order to ensure the stability and speed of the Mickey, the author does not want the Mickey to be abused, especially the P2P protocol downloaded by BT& magnetic force / thunder.
 
-2. If all lines are blocked, it means that the server is blocked extensively. Please give the rabbit more patience to restore the service (in 48 hours).
+2. If all lines are blocked, it means that the server is blocked extensively. Please give the Mickey more patience to restore the service (in 48 hours).
 
 3. 1 to 3 lines will always be fixed as forbidden video lines to provide guarantees for web/social services (friends who need video services please choose other lines)
 
