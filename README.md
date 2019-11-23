@@ -1,5 +1,5 @@
-我沒有別的東西奉獻,唯有辛勞淚水和血汗。——丘吉爾
 
+I have nothing to offer but tears and sweat. -- Churchill 
 
 小白兔 永久免費、壹鍵連接、自由地訪問互聯網。
 
