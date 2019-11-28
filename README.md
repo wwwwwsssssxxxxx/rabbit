@@ -1,5 +1,7 @@
 
-I have nothing to offer but tears and sweat. -- Churchill 
+
+若對小白兔不滿意，請直接卸載，以下說明無需再看，另外匯總谷歌優秀作品供妳們選擇：老王，無碼，小明，銀河
+
 
 小白兔 永久免費、壹鍵連接、自由地訪問互聯網。
 
