@@ -1,1 +1,1 @@
-{"code":1,"message":"很遺憾，小白兔將不再維護（暫不影響使用）。原因，密鑰文件丟失，請轉移至新版APP，谷歌商店搜索：MickeyVPN(註意大小寫)","data":{}}
+{"code":1,"message":"please down MickeyVPN.","data":{}}
