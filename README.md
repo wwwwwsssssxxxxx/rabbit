@@ -43,6 +43,7 @@ This application is only for scientific research, learning, education, and all o
 About downloading:
 
 Only provide Google Play download channels, other download channels please be careful!
+
 -------------------------------------------------------------------------------------------------------------------------------
 
 小白兔 永久免費、壹鍵連接、自由地訪問互聯網。
