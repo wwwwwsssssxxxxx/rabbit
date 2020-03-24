@@ -1,5 +1,7 @@
 旨在為全球需要代理的用戶服務，考慮中國區特殊情況，不定時開設緊急線路，另請備好其他代理工具和下載 MickeyVPN（小兔密鑰丟失，不會再更新，老版可繼續使用，2個APP版本裝1個即可，線路相同）
 -------------------------------------------------------------------------------
+廣告費已無法支持服務器費用，將減少服務器數量
+-------------------------------------------------------------------------------
 "Small Rabbit"  permanently free, one-click connection, free access to the Internet.
 
 1. in order to ensure the stability and speed of the rabbit, the author does not want the rabbit to be abused, especially the P2P protocol downloaded by BT& magnetic force / thunder.
