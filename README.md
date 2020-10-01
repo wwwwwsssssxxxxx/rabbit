@@ -2,6 +2,8 @@
 -------------------------------------------------------------------------------
 廣告費已無法支持服務器費用，將減少服務器數量，不要全打1星，以防穀歌清理低分垃圾應用
 -------------------------------------------------------------------------------
+敏感時期，線路逐步恢復，國慶快樂
+-------------------------------------------------------------------------------
 "Small Rabbit"  permanently free, one-click connection, free access to the Internet.
 
 1. in order to ensure the stability and speed of the rabbit, the author does not want the rabbit to be abused, especially the P2P protocol downloaded by BT& magnetic force / thunder.
