@@ -1,9 +1,4 @@
-大陸地區敏感時期，不定期恢復線路，請備好其他工具，感謝理解
--------------------------------------------------------------------------------
-因為小兔密鑰丟失,無法更新版本，請及時下載 MickeyVPN（谷歌商店搜索，註意大小寫）,後續只會更新MickeyVPN
--------------------------------------------------------------------------------
-線路若都掛啦，請耐心等待，壹般晚上或周末恢復,敏感時期只開設緊急線路，註意清理緩存，刷新最新線路
--------------------------------------------------------------------------------
+
 "Small Rabbit"  permanently free, one-click connection, free access to the Internet.
 
 1. in order to ensure the stability and speed of the rabbit, the author does not want the rabbit to be abused, especially the P2P protocol downloaded by BT& magnetic force / thunder.
